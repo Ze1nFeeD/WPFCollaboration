@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+            <StackPanel >
+                <TextBlock FontSize="42" Text="Автор формы: Дмитрий Гура"/>
+                <TextBlock FontSize="37" Text="Это моя первая коллаборация."/>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>
