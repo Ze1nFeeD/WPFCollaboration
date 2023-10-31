@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <StackPanel></StackPanel>
+        <StackPanel>
+            <TextBlock TextWrapping="Wrap" FontSize="35" Foreground="Coral" Text="Привет Дима, вот мы и пересеклись на просторах Visual Studio. Меня зовут Всеволод и я буду помогать тебе с задачами нашего преподователя" Height="421" Width="474"/>
+
+        </StackPanel>
     </Grid>
 </Window>
