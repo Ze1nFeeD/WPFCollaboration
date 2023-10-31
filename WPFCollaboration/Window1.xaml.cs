@@ -22,6 +22,8 @@ namespace WPFCollaboration
         public Window1()
         {
             InitializeComponent();
+
+           // ддлжд\
         }
     }
 }
