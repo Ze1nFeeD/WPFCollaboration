@@ -1,7 +1,7 @@
 # WPFCollaboration
 Collobarations 
-Это самый лучший репозиторий. Только здесь будут реализованы иновации о которы может только мечтать Илон Макс.Пендосы не завидуйте!!!!! 
-This is the best repository. Only here will the innovations that Elon Max can only dream of be realized.Don't be jealous, pendos
+Это самый лучший репозиторий. Только здесь будут реализованы иновации о которы может только мечтать Илон Маск.Пендосы не завидуйте!!!!! 
+This is the best repository. Only here will the innovations that Elon Mask can only dream of be realized.Don't be jealous, pendos
 
 
 
